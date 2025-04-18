@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @raonych    
 - 🚀 Currently learning Java, Laravel, and Node.js  
-- 📫 Reach me at [raonych@gmail.com](mailto:raony@gmail.com)
+- 📫 Reach me at [www.linkedin.com/in/raony-chagas)
 
 
 <h2 align="left">Linguagens e Ferramentas</h2>
