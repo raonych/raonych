@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raony-chagas-b5299528a)
 
 - 👋 Hi, I’m @raonych    
-- 🚀 Currently learning Java, Laravel, and Node.js  
+- 🚀 Currently learning C#, Laravel and Node.js  
 - 📫 Reach me at www.linkedin.com/in/raony-chagas
 
 
